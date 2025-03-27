@@ -16,11 +16,11 @@ const letterPositions = [
     { letter: 'S', x: 6, y: 6 },
     { letter: 'W', x: 4, y: 3 },
     { letter: 'M', x: 1, y: 9 },
-    { letter: '1', x: 5, y: 9 },
-    { letter: '8', x: 9, y: 3 },
-    { letter: '3', x: 7, y: 6 },
-    { letter: '4', x: 2, y: 5 },
-    { letter: '9', x: 8, y: 3 }
+    { letter: 'P', x: 5, y: 9 },
+    { letter: 'L', x: 9, y: 3 },
+    { letter: 'Y', x: 7, y: 6 },
+    { letter: 'K', x: 2, y: 5 },
+    { letter: 'D', x: 8, y: 3 }
 ];
 
 // Fixed grid layout
